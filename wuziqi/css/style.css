@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#can{
+	display: block;
+	margin: 20px auto;
+	box-shadow: 5px 5px 5px #666666,-3px -3px 3px #666666;
+}
+.color{
+	width: 400px;
+	margin:30px auto 0 auto;
+}
+input{
+	height: 30px;
+	margin-right: 10px;
+}
+label{
+	display: block;
+	margin: 10px 0;
+	color: red;
+}
+#onceAgin{
+	display: block;
+	
+}
